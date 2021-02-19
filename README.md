@@ -1,5 +1,5 @@
-# Aulas de HTML e CSS básico
+# HelmView
 
 :chicken:
 
-Learning HTML and CSS from the begining, using this lessons to create an site for animes.
+A test website of anime reviews, using things that I'm currently learning.
